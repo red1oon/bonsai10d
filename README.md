@@ -224,3 +224,12 @@ Committed to FLOSS, compliance with BONSAI's GPL v3.0 or later
 
 **4th Mantra**
 - AI is here, leap further
+
+**Project Repositories**
+- Terminal 1/2 Jetty Complex Extensions:
+
+- Federation Module: https://github.com/red1oon/bonsai-federation
+- MEP Engineering Module: https://github.com/red1oon/bonsai-mep-engineering
+
+- These modules are developed as open-source extensions to Bonsai (BlenderBIM) for a TERMINAL 1/2 Jetty Complex project in  Malaysia.
+
