@@ -210,7 +210,7 @@ Redhuan D. Oon (red1)
 Naquib Danial Oon
 
 **Company Reference**:
-IKTHISAS INGENIURS SDN BHD
+IKTISAS INGENIURS SDN BHD
 TAMAN MELAWATI
 MALAYSIA
 
