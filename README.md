@@ -291,7 +291,7 @@ Committed to FLOSS, compliance with BONSAI's GPL v3.0 or later
 
   ---
 
-  **Project Experience**: Redhuan D. Oon (red1) - ADempiere Founding Leader, Former iDempiere Community Leader
-  **Development Approach**: Transparent AI collaboration for professional BIM-ERP integration
-  **License**: GNU General Public License v3.0 or later
-  **Philosophy**: Freedom with responsibility and transparency
+  **Project Author**: Humbly yours, Redhuan D. Oon (red1) - ADempiere Founding Leader, Former iDempiere Community Leader
+  
+  KIND REGARDS
+  red1
