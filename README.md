@@ -233,3 +233,65 @@ Committed to FLOSS, compliance with BONSAI's GPL v3.0 or later
 
 - These modules are developed as open-source extensions to Bonsai (BlenderBIM) for a TERMINAL 1/2 Jetty Complex project in  Malaysia.
 
+## DISCLAIMER
+
+  ### On AI-Assisted Development
+
+  This project's code is developed through collaboration between human engineers and AI assistants (Claude/Anthropic). We state this
+   transparently because **honesty matters more than ego**.
+
+  **What this means:**
+  - **Human understanding**: Every line committed is understood, tested, and maintained by the human authors
+  - **AI as tool**: We use AI like we use compilers, debuggers, and IDEs - as force multipliers for human intent
+  - **Responsibility**: Bugs are ours to fix. Design decisions are ours to defend. The code is ours to maintain
+  - **Quality commitment**: AI-assistance doesn't lower our standards. If anything, it raises the bar for what we can deliver
+
+  **What this doesn't mean:**
+  - We don't blindly copy-paste AI output
+  - We don't claim sole authorship when collaboration happened
+  - We don't hide our development process to appear more "legitimate"
+
+  If you can't accept AI-assisted code, don't use this project. If you judge code by **what it does** rather than **how it was 
+  written**, read on.
+
+  ### On Software Freedom
+
+  This software is **free as in freedom** (GPL v3.0+), not as in beer. You have the right to:
+  - Use it for any purpose
+  - Study how it works and modify it
+  - Redistribute copies
+  - Distribute modified versions
+
+  These rights come with **responsibilities**:
+  - Share improvements under the same license
+  - Don't close the source
+  - Credit contributors (human and AI alike)
+  - Don't sue over patents
+
+  ### On Warranties and Liability
+
+  **There are none.** This is production-quality code built for real construction projects, but:
+  - Use at your own risk
+  - Test before deploying to critical workflows
+  - We fix bugs we find; you fix bugs you need fixed
+  - Enterprise support? Build it yourself or hire us
+
+  This is open source. If you want guarantees, buy commercial software (which they are not liable anyway). If you want freedom (and shallow bugs), welcome aboard.
+
+  ### On Community Contribution
+
+  Pull requests welcome **when you understand what you're changing**. We don't care if you used AI, pair programming, or stone
+  tablets - we care if:
+  1. The code works
+  2. You can explain it
+  3. You can maintain it
+  4. It improves the project
+
+  Standards matter. Freedom matters. Honesty matters. People matters. Collaboratin matters. Everything else is in conversation.
+
+  ---
+
+  **Project Experience**: Redhuan D. Oon (red1) - ADempiere Founding Leader, Former iDempiere Community Leader
+  **Development Approach**: Transparent AI collaboration for professional BIM-ERP integration
+  **License**: GNU General Public License v3.0 or later
+  **Philosophy**: Freedom with responsibility and transparency
